@@ -2,7 +2,7 @@
 
 This project is LLM-Based Control for Autonomous Robot Navigation, inspired by [Paper](https://arxiv.org/abs/2309.09969) Currently working on inference delay optimization for LLM, and extending this work to implement on Humanoid robot.
 
-<img src="gif/llm_robot_1" alt="demo" width="600" />
+<img src="gif/llm_robot_1.gif" alt="demo" width="600" />
 
 
 
@@ -36,5 +36,5 @@ python src/run.py
 
 ## Training your own policy
 
-Please refer to [Isaac Lab RL Framework for A1 Quadruped]([https://github.com/leggedrobotics/legged_gym](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/manager_based/locomotion/velocity/config/a1).
+Please refer to [Isaac Lab RL Framework for A1 Quadruped](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/manager_based/locomotion/velocity/config/a1).
 
