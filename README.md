@@ -36,5 +36,5 @@ python src/run.py
 
 ## Training your own policy
 
-Please refer to [Isaac Lab RL Framework for A1 Quadruped]([https://github.com/leggedrobotics/legged_gym](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/manager_based/locomotion/velocity/config/a1)).
+Please refer to [Isaac Lab RL Framework for A1 Quadruped]([https://github.com/leggedrobotics/legged_gym](https://github.com/isaac-sim/IsaacLab/tree/main/source/isaaclab_tasks/isaaclab_tasks/manager_based/locomotion/velocity/config/a1).
 
