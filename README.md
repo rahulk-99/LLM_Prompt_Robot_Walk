@@ -1,4 +1,4 @@
-# Prompt a Robot to Walk with Large Language Models
+# LLM-Based Control for Autonomous Robot Navigation 
 
 This project is LLM-Based Control for Autonomous Robot Navigation, inspired by [Paper](https://arxiv.org/abs/2309.09969) Currently working on inference delay optimization for LLM, and extending this work to implement on Humanoid robot.
 
